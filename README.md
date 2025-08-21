@@ -73,8 +73,6 @@ python main.py
   - `solve()`: Implements the backtracking algorithm to solve the puzzle
   - Main execution code to solve and print the result
 
-- **blog.md**: A detailed explanation of the backtracking algorithm and implementation (in Chinese)
-
 ## Example
 
 Here's an example of a Sudoku puzzle and its solution:
