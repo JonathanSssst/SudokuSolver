@@ -47,7 +47,7 @@ The solver uses a backtracking algorithm with the following steps:
 
 ```bash
 git clone https://github.com/JonathanSssst/SudokuSolver.git
-cd sudoku-solver
+cd SudokuSolver
 ```
 
 No additional dependencies are required as the implementation uses only Python's standard library.
